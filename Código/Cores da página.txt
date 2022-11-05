@@ -1,0 +1,5 @@
+Cores que serão usadas:
+
+Warm Blue: #4658d6
+Vivaldi Red: #ea3a3a
+Sumac Dyed: #e18120
